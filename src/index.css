@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  color: #fff;
+  padding: 0 5%;
+  position: relative;
+  background-color: #000;
+  background-attachment: fixed; /* keep background image fixed */
+  min-height: 100vh;            /* allow the body to grow with content */
+  overflow-x: hidden;
+}
+
+body::before {
+  content: '';
+  position: fixed; /* make the image fixed to viewport */
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('src/assets/image/photo.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.4;
+  z-index: -1;
+  filter: brightness(0.8);
+}
+
+a{
+  color:antiquewhite;
+  text-decoration: none;
+}

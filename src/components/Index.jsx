@@ -19,7 +19,7 @@ const Index = () => (
                 <p style={styles.bio}>
                     Hello, I'm <strong>Uday Reddy Kallam</strong>. I'm a final‑year Computer
                     Science student with a passion for building full‑stack applications using
-                    Spring Boot, Django, and React. I enjoy solving real‑world problems
+                    Spring Boot, Django, and React. I enjoy solving real‑world problems
                     through code and exploring cloud technologies.<br />
                     Feel free to reach out on&nbsp;
                     <a
@@ -47,7 +47,7 @@ const Index = () => (
                     target="_blank"
                     rel="noreferrer"
                 >
-                    Art Gallery Management System
+                    Art Gallery Management System
                 </a>
             </li>
             <li>
@@ -56,7 +56,7 @@ const Index = () => (
                     target="_blank"
                     rel="noreferrer"
                 >
-                    Student Feedback and Analysis System
+                    Student Feedback and Analysis System
                 </a>
             </li>
         </ul>
@@ -79,7 +79,7 @@ const Index = () => (
                     target="_blank"
                     rel="noreferrer"
                 >
-                    AWS Certified Cloud Practitioner
+                    AWS Certified Cloud Practitioner
                 </a>
             </li>
             <li>
@@ -88,7 +88,7 @@ const Index = () => (
                     target="_blank"
                     rel="noreferrer"
                 >
-                    Red Hat Certified Enterprise Application Developer (EX183)
+                    Red Hat Certified Enterprise Application Developer (EX183)
                 </a>
             </li>
             <li>
@@ -97,7 +97,7 @@ const Index = () => (
                     target="_blank"
                     rel="noreferrer"
                 >
-                    Salesforce AI Associate
+                    Salesforce AI Associate
                 </a>
             </li>
             <li>
@@ -106,7 +106,7 @@ const Index = () => (
                     target="_blank"
                     rel="noreferrer"
                 >
-                    Postman API Fundamentals Student Expert
+                    Postman API Fundamentals Student Expert
                 </a>
             </li>
         </ul>
